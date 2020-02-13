@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcb1062a-efa4-4f31-bf4e-4af0ea9b4ea6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xkj7nY2uPHhDKY09e1KZeKMK2I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcb1062a-efa4-4f31-bf4e-4af0ea9b4ea6" name="Default Changelist" comment="" />
+      <created>1581596823631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581596823631</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="706" y="358" width="564" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581596894520">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="706" y="358" width="564" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581596894520" />
+    <state x="678" y="158" width="619" height="790" key="#main" timestamp="1581596999963">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="678" y="158" width="619" height="790" key="#main/67.27.1853.1053@67.27.1853.1053" timestamp="1581596999963" />
+    <state width="1377" height="260" key="GridCell.Tab.0.bottom" timestamp="1581597292900">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581597292900" />
+    <state width="1377" height="260" key="GridCell.Tab.0.center" timestamp="1581597292899">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581597292899" />
+    <state width="1377" height="260" key="GridCell.Tab.0.left" timestamp="1581597292898">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581597292898" />
+    <state width="1377" height="260" key="GridCell.Tab.0.right" timestamp="1581597292899">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="260" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581597292899" />
+    <state x="482" y="188" key="SettingsEditor" timestamp="1581597120215">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="188" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581597120215" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581597655535">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581597655535" />
+  </component>
+</project>
